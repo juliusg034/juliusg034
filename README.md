@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Frameworks, Linux, & Backend**
 
-- 🤝 I’m looking for help with [Yetimoose.art](https://github.com/juliusg034/yetimoose-website)
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **juliusg03@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
